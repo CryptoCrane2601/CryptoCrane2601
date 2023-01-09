@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shoooockergmail" target="blank"><img src="https://img.shields.io/twitter/follow/shoooockergmail?logo=twitter&style=for-the-badge" alt="shoooockergmail" /></a> </p>
 
-- 🌱 I’m currently learning **CSS, JavaScript**
+- 🌱 I’m currently learning **HTML,CSS, JavaScript,Git and soon React**
 
-- 📫 How to reach me **dejan.kurcubic@icloud.com**
+- 📫 How to reach me **dejan.kurcubic@icloud.com or shoooocker@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
