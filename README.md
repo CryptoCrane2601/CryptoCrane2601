@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dejan Kurćubić</h1>
-<h3 align="center">A passionate unknown frontend developer from Serbia</h3>
+<h3 align="center">A unknown frontend developer from Serbia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptocrane2601&label=Profile%20views&color=0e75b6&style=flat" alt="cryptocrane2601" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shoooockergmail" target="blank"><img src="https://img.shields.io/twitter/follow/shoooockergmail?logo=twitter&style=for-the-badge" alt="shoooockergmail" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript,React**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript and soonReact**
 
-- 📫 How to reach me **dejan.kurcubic@icloud.com**
+- 📫 How to reach me **dejan.kurcubic@icloud.com, shoooocker@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
